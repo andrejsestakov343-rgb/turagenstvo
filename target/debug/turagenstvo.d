@@ -1,0 +1,1 @@
+D:\Курсовой\ проект\ Шестаков\turagenstvo\target\debug\turagenstvo.exe: D:\Курсовой\ проект\ Шестаков\turagenstvo\src\main.rs D:\Курсовой\ проект\ Шестаков\turagenstvo\src\models\country.rs D:\Курсовой\ проект\ Шестаков\turagenstvo\src\models\mod.rs D:\Курсовой\ проект\ Шестаков\turagenstvo\src\models\route.rs D:\Курсовой\ проект\ Шестаков\turagenstvo\src\models\sale.rs
